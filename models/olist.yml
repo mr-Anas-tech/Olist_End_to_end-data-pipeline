@@ -1,0 +1,8 @@
+sources:
+  - name: raw_olist
+    project: dbt-learning-493706
+    dataset: raw_olist
+    tables:
+      - name: raw_olist_orders
+      - name: raw_olist_customers
+      - name: raw_olist_geolocation
